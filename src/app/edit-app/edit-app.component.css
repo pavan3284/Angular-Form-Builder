@@ -1,0 +1,40 @@
+.main-area .left-menu{
+  box-shadow: 7px 7px 3px 0px #c7c7c7;
+  background-color: #e4f2ff; 
+}
+.main-area .left-menu .fields{
+  color: #174754;
+}
+.main-area .form-group .form-control:hover,
+.main-area .form-group .form-control:focus,
+.main-area .form-group .form-control:active,
+.main-area .form-group .form-control:visited,
+.main-area .form-group .form-control{
+  border: 0px !important;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0);
+}
+.main-area .form-group.card{
+  box-shadow: 0px 2px 12px 0px #5d5d5d21;
+}
+
+.box-effect{
+  box-shadow: 0px 0px 10px 0px #e3e3e3;
+}
+.label-text{
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #174754;
+  border-radius: 7px;
+}
+.text-desc{
+  font-size: 1rem;
+  font-weight: 500;
+  color: #4593a9;
+  line-height: 1.5em;
+  padding: 4px 0px;
+}
+.dndDropArea{
+  box-shadow: 0px 0px 10px 0px #e3e3e3;
+  
+
+}
